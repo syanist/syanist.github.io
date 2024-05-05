@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: 'poppins', sans-serif
+}
+.centered-header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: large;
+}
+
+a {
+    color: #777acc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+pre {
+    color: white;
+    font-family: 'poppins', sans-serif;
+}
+
+.pahe {
+    color: white;
+    text-align: center;
+    font-size: 250%;
+    text-decoration: underline;
+    font-weight: 500;
+}
+.qh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
